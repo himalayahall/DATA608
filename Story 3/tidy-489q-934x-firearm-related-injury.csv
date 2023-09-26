@@ -7,7 +7,6 @@ year_and_quarter,state,state_abbrev,mortality_per_100k
 2020 Q1,Colorado,CO,14.8
 2020 Q1,Connecticut,CT,5.5
 2020 Q1,Delaware,DE,9.8
-2020 Q1,District Of Columbia,DC,20.6
 2020 Q1,Florida,FL,13.5
 2020 Q1,Georgia,GA,16.1
 2020 Q1,Hawaii,HI,4
@@ -58,7 +57,6 @@ year_and_quarter,state,state_abbrev,mortality_per_100k
 2020 Q2,Colorado,CO,15.2
 2020 Q2,Connecticut,CT,5.4
 2020 Q2,Delaware,DE,11.5
-2020 Q2,District Of Columbia,DC,21.5
 2020 Q2,Florida,FL,13.4
 2020 Q2,Georgia,GA,16.2
 2020 Q2,Hawaii,HI,3.7
@@ -109,7 +107,6 @@ year_and_quarter,state,state_abbrev,mortality_per_100k
 2020 Q3,Colorado,CO,16
 2020 Q3,Connecticut,CT,5.7
 2020 Q3,Delaware,DE,12.6
-2020 Q3,District Of Columbia,DC,21.9
 2020 Q3,Florida,FL,13.9
 2020 Q3,Georgia,GA,16.8
 2020 Q3,Hawaii,HI,3.9
@@ -160,7 +157,6 @@ year_and_quarter,state,state_abbrev,mortality_per_100k
 2020 Q4,Colorado,CO,15.9
 2020 Q4,Connecticut,CT,6.2
 2020 Q4,Delaware,DE,13.7
-2020 Q4,District Of Columbia,DC,23.4
 2020 Q4,Florida,FL,14
 2020 Q4,Georgia,GA,17.7
 2020 Q4,Hawaii,HI,3.6
@@ -211,7 +207,6 @@ year_and_quarter,state,state_abbrev,mortality_per_100k
 2021 Q1,Colorado,CO,16.7
 2021 Q1,Connecticut,CT,6.3
 2021 Q1,Delaware,DE,13.9
-2021 Q1,District Of Columbia,DC,23.7
 2021 Q1,Florida,FL,14.1
 2021 Q1,Georgia,GA,18.3
 2021 Q1,Hawaii,HI,4
@@ -262,7 +257,6 @@ year_and_quarter,state,state_abbrev,mortality_per_100k
 2021 Q2,Colorado,CO,17.3
 2021 Q2,Connecticut,CT,7
 2021 Q2,Delaware,DE,15.4
-2021 Q2,District Of Columbia,DC,24.7
 2021 Q2,Florida,FL,14.5
 2021 Q2,Georgia,GA,19.3
 2021 Q2,Hawaii,HI,4.7
@@ -313,7 +307,6 @@ year_and_quarter,state,state_abbrev,mortality_per_100k
 2021 Q3,Colorado,CO,16.7
 2021 Q3,Connecticut,CT,7.3
 2021 Q3,Delaware,DE,15.9
-2021 Q3,District Of Columbia,DC,26.5
 2021 Q3,Florida,FL,14.3
 2021 Q3,Georgia,GA,20
 2021 Q3,Hawaii,HI,5.1
@@ -364,7 +357,6 @@ year_and_quarter,state,state_abbrev,mortality_per_100k
 2021 Q4,Colorado,CO,18.3
 2021 Q4,Connecticut,CT,6.9
 2021 Q4,Delaware,DE,15.7
-2021 Q4,District Of Columbia,DC,27.6
 2021 Q4,Florida,FL,14.4
 2021 Q4,Georgia,GA,20.4
 2021 Q4,Hawaii,HI,4.9
@@ -415,7 +407,6 @@ year_and_quarter,state,state_abbrev,mortality_per_100k
 2022 Q1,Colorado,CO,17.6
 2022 Q1,Connecticut,CT,7.3
 2022 Q1,Delaware,DE,15.8
-2022 Q1,District Of Columbia,DC,26.7
 2022 Q1,Florida,FL,14.3
 2022 Q1,Georgia,GA,20.7
 2022 Q1,Hawaii,HI,5
@@ -466,7 +457,6 @@ year_and_quarter,state,state_abbrev,mortality_per_100k
 2022 Q2,Colorado,CO,17.3
 2022 Q2,Connecticut,CT,7.1
 2022 Q2,Delaware,DE,14
-2022 Q2,District Of Columbia,DC,28.5
 2022 Q2,Florida,FL,14.7
 2022 Q2,Georgia,GA,20.5
 2022 Q2,Hawaii,HI,4.7
@@ -517,7 +507,6 @@ year_and_quarter,state,state_abbrev,mortality_per_100k
 2022 Q3,Colorado,CO,17.8
 2022 Q3,Connecticut,CT,6.8
 2022 Q3,Delaware,DE,12.6
-2022 Q3,District Of Columbia,DC,26.9
 2022 Q3,Florida,FL,14.7
 2022 Q3,Georgia,GA,19.7
 2022 Q3,Hawaii,HI,4.3
