@@ -1,4 +1,4 @@
-State,Annual Salary,Monthly Pay,Weeky Pay,Houly Wage,Job Title
+State,Annual Salary,Monthly Pay,Weeky Pay,Hourly Wage,Job Title
 New York,98238,8186,1889,47.23,Data Analyst
 New Jersey,84878,7073,1632,40.81,Data Analyst
 Wisconsin,84340,7028,1621,40.55,Data Analyst
@@ -149,6 +149,56 @@ Nebraska,101966,8497,1960,49.02,Data Scientist
 Kentucky,97824,8152,1881,47.03,Data Scientist
 North Carolina,97172,8097,1868,46.72,Data Scientist
 Arkansas,96232,8019,1850,46.27,Data Scientist
+Washington,109132,9094,2098,52.47,Data Warehouse Analyst
+New York,103494,8624,1990,49.76,Data Warehouse Analyst
+California,100438,8369,1931,48.29,Data Warehouse Analyst
+Massachusetts,94377,7864,1814,45.37,Data Warehouse Analyst
+Nevada,94002,7833,1807,45.19,Data Warehouse Analyst
+Vermont,93069,7755,1789,44.74,Data Warehouse Analyst
+Wisconsin,91666,7638,1762,44.07,Data Warehouse Analyst
+New Jersey,91640,7636,1762,44.06,Data Warehouse Analyst
+Oregon,91504,7625,1759,43.99,Data Warehouse Analyst
+Maine,91418,7618,1758,43.95,Data Warehouse Analyst
+Hawaii,90464,7538,1739,43.49,Data Warehouse Analyst
+Texas,89813,7484,1727,43.18,Data Warehouse Analyst
+Minnesota,89078,7423,1713,42.83,Data Warehouse Analyst
+Alaska,88908,7409,1709,42.74,Data Warehouse Analyst
+Wyoming,88385,7365,1699,42.49,Data Warehouse Analyst
+Indiana,87653,7304,1685,42.14,Data Warehouse Analyst
+Arizona,87625,7302,1685,42.13,Data Warehouse Analyst
+Idaho,86821,7235,1669,41.74,Data Warehouse Analyst
+Pennsylvania,86582,7215,1665,41.63,Data Warehouse Analyst
+New Hampshire,86519,7209,1663,41.60,Data Warehouse Analyst
+Rhode Island,86430,7202,1662,41.55,Data Warehouse Analyst
+South Dakota,86346,7195,1660,41.51,Data Warehouse Analyst
+North Dakota,86281,7190,1659,41.48,Data Warehouse Analyst
+Georgia,86137,7178,1656,41.41,Data Warehouse Analyst
+Iowa,86073,7172,1655,41.38,Data Warehouse Analyst
+Connecticut,85552,7129,1645,41.13,Data Warehouse Analyst
+Montana,84066,7005,1616,40.42,Data Warehouse Analyst
+Illinois,83896,6991,1613,40.33,Data Warehouse Analyst
+New Mexico,82988,6915,1595,39.90,Data Warehouse Analyst
+Ohio,82780,6898,1591,39.80,Data Warehouse Analyst
+Virginia,82624,6885,1588,39.72,Data Warehouse Analyst
+Maryland,82490,6874,1586,39.66,Data Warehouse Analyst
+Delaware,81272,6772,1562,39.07,Data Warehouse Analyst
+Utah,81096,6758,1559,38.99,Data Warehouse Analyst
+Tennessee,81023,6751,1558,38.95,Data Warehouse Analyst
+Colorado,80847,6737,1554,38.87,Data Warehouse Analyst
+Mississippi,79684,6640,1532,38.31,Data Warehouse Analyst
+Oklahoma,78499,6541,1509,37.74,Data Warehouse Analyst
+South Carolina,78071,6505,1501,37.53,Data Warehouse Analyst
+Michigan,77358,6446,1487,37.19,Data Warehouse Analyst
+Missouri,76933,6411,1479,36.99,Data Warehouse Analyst
+Kansas,76610,6384,1473,36.83,Data Warehouse Analyst
+Nebraska,74870,6239,1439,36.00,Data Warehouse Analyst
+West Virginia,74604,6217,1434,35.87,Data Warehouse Analyst
+Louisiana,74273,6189,1428,35.71,Data Warehouse Analyst
+Alabama,74050,6170,1424,35.60,Data Warehouse Analyst
+Florida,73973,6164,1422,35.56,Data Warehouse Analyst
+Kentucky,71661,5971,1378,34.45,Data Warehouse Analyst
+North Carolina,71282,5940,1370,34.27,Data Warehouse Analyst
+Arkansas,70536,5878,1356,33.91,Data Warehouse Analyst
 New York,149475,12456,2874,71.86,Machine Learning Engineer
 Vermont,135058,11254,2597,64.93,Machine Learning Engineer
 Massachusetts,130436,10869,2508,62.71,Machine Learning Engineer
